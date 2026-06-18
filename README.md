@@ -35,3 +35,7 @@ Outputs:
 - Received Power: -63.74 dBm
 - Link Margin: 26.26 dB
 - Maximum Distance: 8224.4 km
+
+## Application Screenshot
+
+![Link Budget Calculator](Captura LinkBudgetCalculator.png)
