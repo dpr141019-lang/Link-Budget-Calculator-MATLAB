@@ -38,4 +38,4 @@ Outputs:
 
 ## Application Screenshot
 
-![Link Budget Calculator](Captura LinkBudgetCalculator.png)
+![Link Budget Calculator](link-budget-calculator-screenshot.png)
