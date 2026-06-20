@@ -12,6 +12,8 @@ MATLAB App Designer application for RF and satellite communication link analysis
 - Link Margin calculation
 - Maximum Communication Distance estimation
 - Power vs Distance visualization
+- Additional Link Losses support
+- Link Status Indicator
 
 ## Technologies
 
