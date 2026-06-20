@@ -40,4 +40,4 @@ Outputs:
 
 ## Application Screenshot
 
-![Link Budget Calculator](link-budget-calculator-screenshot.png)
+![Link Budget Calculator](additional_losses.png)
